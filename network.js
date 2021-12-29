@@ -20,8 +20,6 @@ Used to set the network
 1666600000 Harmony Mainnet Shard0
 */
 
-int networkId = Web3GL.Network();
-MessagePort.web3NetworkId = 54633;
 window.web3NetworkId = 80001;//matic
 //window.web3NetworkID = 245022940;
 //window.webNetworkName = "testnet";
